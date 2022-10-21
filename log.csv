@@ -1,0 +1,32 @@
+10/21/22 16:15  Operation: Addition  Number: 5.0  Number: 6.0  Result: 11.0
+--------------------------------------------------
+10/21/22 16:15  Operation: Subtraction  Number: 1.0  Number: 6.0  Result: -5.0
+--------------------------------------------------
+10/21/22 16:16  Operation: Integer division  Number: 6.0  Number: 4.0  Result: 1.0
+--------------------------------------------------
+10/21/22 16:18  Operation: Calculating the square root  Number: 7.0  Result: 2.65
+--------------------------------------------------
+10/21/22 17:14  Operation: Addition  Number: 2.0  Number: 5.0  Result: 7.0
+--------------------------------------------------
+10/21/22 17:15  Operation: Subtraction  Number: 10.0  Number: 8.0  Result: 2.0
+--------------------------------------------------
+10/21/22 17:15  Operation: Multiplication  Number: 16.0  Number: 17.0  Result: 272.0
+--------------------------------------------------
+10/21/22 17:15  Operation: Get remainder of the division  Number: 5.0  Number: 2.0  Result: 1.0
+--------------------------------------------------
+10/21/22 17:15  Operation: Exponentiation  Number: 5.0  Number: 3.0  Result: 125.0
+--------------------------------------------------
+10/21/22 17:15  Operation: Calculating the square root  Number: 9.0  Result: 3.0
+--------------------------------------------------
+10/21/22 17:32  Operation: Addition  Number: 2.0  Number: 5.0  Number: 4.0  Number: 14.0  Result: (6+19j)
+--------------------------------------------------
+10/21/22 17:32  Operation: Subtraction  Number: 10.0  Number: 25.0  Number: 12.0  Number: 3.0  Result: (-2+22j)
+--------------------------------------------------
+10/21/22 17:32  Operation: Multiplication  Number: 2.0  Number: 5.0  Number: 4.0  Number: 3.0  Result: (-7+26j)
+--------------------------------------------------
+10/21/22 17:32  Operation: Division  Number: 5.0  Number: 18.0  Number: 11.0  Number: 2.0  Result: (0.7280000000000001+1.504j)
+--------------------------------------------------
+10/21/22 17:33  Operation: Exponentiation  Number: 6.0  Number: 2.0  Number: 3.0  Number: 4.0  Result: (-32.81226846116208+61.660800692283914j)
+--------------------------------------------------
+10/21/22 17:33  Operation: Exponentiation  Number: 6.0  Number: 0.0  Result: 1.0
+--------------------------------------------------
